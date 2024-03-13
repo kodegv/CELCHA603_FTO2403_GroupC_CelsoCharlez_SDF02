@@ -9,6 +9,7 @@ body {
   height: 100vh;
 }
 
+/* Added flex display with spacing around to achieve equal spacing around elements */
 .counter {
   background-color: #e5e5f7;
   opacity: 0.8;
@@ -38,6 +39,7 @@ body {
   justify-content: space-evenly;
 }
 
+/* Changed position from absolute to relative, to link to parent positioning */
 .pastry {
   color: #533117;
   padding: 20px;
